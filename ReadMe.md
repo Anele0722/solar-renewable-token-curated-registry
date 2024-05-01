@@ -1,4 +1,4 @@
-# Solar Renewable Token Curated Registry
+# Solar Renewable Token Curated Registry Splash Page 
 
 This decentralized application allows developers to list their solar energy projects on the Solar Renewable Token Curated Registry (TCR). Investors can then invest in clean energy initiatives by voting on the projects they believe should be listed. If the majority of the developers vote to accept a project, it will appear on the list. Conversely, if the TCR community decides to challenge a project's application and the majority votes against it, the project will be rejected, and the deposit will be distributed among participating voters.
 
